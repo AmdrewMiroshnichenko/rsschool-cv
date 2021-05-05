@@ -27,4 +27,4 @@ I tried various user interface features such as Bottom Navigation, Navigation Vi
 Alfred Nobel University, finance, 2007 - 2012.
 
 <h2>English</h2>
-pre-intermediate (A2)
+pre-intermediate
