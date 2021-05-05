@@ -1,16 +1,16 @@
 <h1>Andrew Miroshnichenko</h1> 
 
 <h2>Contacts</h2>
-Phone/telegram/viber +38(095)7468714  
-Skype: andrtrans1  
-Email: mobilemiron@gmail.com  
+Phone/telegram/viber +38(095)7468714 <br/>
+Skype: andrtrans1 <br/>
+Email: mobilemiron@gmail.com <br/>
 
 
 <h2>Summary</h2>
 Goals: I want to become an android developer in one year. 
-And I want to write my own supplement for preparation for ZNO in English  
-What is important for me: creativity at work.  
-I want: if it is possible I want to work remotly, beacause I live in a small town.  
+And I want to write my own supplement for preparation for ZNO in English <br/>
+What is important for me: creativity at work. <br/>
+I want: if it is possible I want to work remotly, beacause I live in a small town. <br/>
 
 <h2>Self-presentation</h2>
 Since 20 years I have been working in the field of logistics. During my work, I have gained diverse experience, 
