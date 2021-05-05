@@ -1,9 +1,10 @@
 <h1>Andrew Miroshnichenko</h1> 
 
 <h2>Contacts</h2>
-Phone/telegram/viber +380957468714 </br>
+Phone/telegram/viber +38(095)7468714 </br>
 Skype: andrtrans1 </br>
 Email: mobilemiron@gmail.com </br>
+
 
 <h2>Summary</h2>
 Goals: I want to become an android developer in one year. 
